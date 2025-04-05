@@ -22,16 +22,6 @@
 
 I hold a degree in Biochemistry and have led research on plant-based anti-sickling agents. My experience caring for a dementia patient inspired my passion for mental health and AI-driven solutions in healthcare. I’m currently transitioning into tech with a strong interest in solving real-world problems through software and data science.
 
-<h2>🔗 Connect with Me</h2>
-
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
- [<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]  
- [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
-
- 
- [twitter]: https://x.com/divine_anekwe
- [youtube]: https://www.youtube.com/@divineanekwe
- [linkedin]: https://www.linkedin.com/in/divineanekwe/
 
 
 <!--
