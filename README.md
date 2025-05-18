@@ -15,7 +15,7 @@
   - *Coming soon to GitHub*
 
 - <b>ALX Portfolio Projects</b>  
-  - Currently working on data science and front-end development challenges  
+  - Currently working on learning and milestone challenges  
   - *Will be added progressively as repositories*
 
 <h2>🧠 Background & Interests</h2>
