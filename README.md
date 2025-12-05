@@ -10,7 +10,7 @@
   - A dual-currency online marketplace connecting local and global audiences.  
   - [Learn More](https://emainmarket.com)
   
-- <b>DivineLedger (Free Online Cashbook)</b>  
+- <b>A Free Online Cashbook</b>  
   - A simple tool built for income and expense tracking.  
   - *Coming soon to GitHub*
 
