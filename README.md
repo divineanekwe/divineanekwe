@@ -7,7 +7,7 @@
 <h2>💻 Software & Data Projects</h2>
 
 - <b>eMainMarket (MVP in Progress)</b>  
-  - A dual-currency online marketplace connecting local and global audiences.  
+  - A quad-currency online marketplace connecting local and global audiences.  
   - [Learn More](https://emainmarket.com)
   
 - <b>A Free Online Cashbook</b>  
