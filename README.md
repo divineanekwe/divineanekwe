@@ -7,7 +7,7 @@
 <h2>💻 Software & Data Projects</h2>
 
 - <b>eMainMarket (MVP in Progress)</b>  
-  - A quad-currency online marketplace connecting local and global audiences.  
+  - A multi-currency online marketplace connecting sellers, resellers, and buyers across Africa.  
   - [Learn More](https://emainmarket.com)
   
 - <b>A Free Online Cashbook</b>  
