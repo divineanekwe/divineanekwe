@@ -20,7 +20,7 @@
 
 <h2>🧠 Background & Interests</h2>
 
-I hold a degree in Biochemistry and have led research on plant-based anti-sickling agents. My experience caring for a dementia patient inspired my passion for mental health and AI-driven solutions in healthcare. I’m currently transitioning into Data Science and Machine Learning with a strong interest in solving real-world problems.
+I hold a degree in Biochemistry and have led research on plant-based anti-sickling studies. My experience caring for a dementia patient inspired my passion for mental health and AI-driven solutions in healthcare. I am currently transitioning into Data Science and Machine Learning with a strong interest in solving real-world problems.
 
 
 
